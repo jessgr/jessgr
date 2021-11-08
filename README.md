@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jessgr (Jess Graves)
+- 👋 Hi, I’m @jessgr (Jess Graves (she/her))
 - 👀 I’m interested in (bio)statistics/data science/all things health research
 - 🌱 I’m currently learning... a lot!
 - 📫 How to reach me: jess@loyalfordogs.com 
